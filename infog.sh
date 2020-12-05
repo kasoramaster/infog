@@ -16,8 +16,8 @@ printf "\e[1;77m       .:: .::  .::  .::   .::  .::  \e[0m\e[1;93m.::    .:  \e[
 printf "\e[1;77m       .::.:::  .::  .::     .::      \e[0m\e[1;93m.:::::    \e[0m\n"
 printf "\e[1;77m     ::::::::::::::::::::::::::::::::::::::::::\e[0m\n"
 printf "\n"
-printf "\e[1;92m     .::.\e[0m\e[1;77m Infomation Gathering Tool - v1.0 \e[1;92m.::.\e[0m\n"
-printf "\e[1;32m  .::.        Coded by @thelinuxchoice        .::.\e[0m\n"
+printf "\e[1;92m     .::.\e[0m\e[1;77m Infomation Gathering Tool - v2.2 \e[1;92m.::.\e[0m\n"
+printf "\e[1;32m  .::.        Coded by BINMANAGER @binmanager        .::.\e[0m\n"
 printf "\n"
 
 }
